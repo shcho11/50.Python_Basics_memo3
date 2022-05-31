@@ -1,1 +1,3 @@
-# Python_Basics_memo3
+## Python Basics memo3
+  - numpy practices
+  - pandas practices
